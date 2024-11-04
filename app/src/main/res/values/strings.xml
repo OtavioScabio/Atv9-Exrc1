@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cadastro de Atleta</string>
+    <string name="aj">Atleta Juvenil</string>
+    <string name="as">Atleta Senior</string>
+    <string name="ao">Atleta (outros)</string>
+    <string name="nome">Nome</string>
+    <string name="nasc">Data de Nascimento</string>
+    <string name="bairro">Bairro</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="anosP">Anos de Pratica</string>
+    <string name="acad">Academia</string>
+    <string name="recorde">Recorde(s)</string>
+    <string name="temProbCard">Possui Problema Cardiaco</string>
+    <string name="naoTemProbCard">Não Possui Problema Cardiaco</string>
+    <string name="MeuNome">Otávio Gabriel Ribeiro Scabio - RA: 1110482223043</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
